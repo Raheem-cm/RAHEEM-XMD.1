@@ -52,7 +52,7 @@
 
 > **📌 OPTION TO GET YOUR SESSION ID**
 > 
-> [![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://lucky-xforce-session-site.onrender.com)
+> [![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://RAHEEM-XMD.1-session-site.onrender.com)
 
 ## _DEPLOY NOW YOUR NEW RAHEEM XMD.1 BOT IN YOUR LIKELY HOST CLOUD_
 
