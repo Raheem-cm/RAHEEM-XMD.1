@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a><img src="https://files.catbox.moe/uw4l17.jpeg" width="300"/></a>
+  <a><img src="https://files.catbox.moe/z5g58c.jpg" width="300"/></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-32CD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
+  [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-32CD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r)
 </div>
 
 <p align="center">
@@ -47,6 +47,7 @@
 ---
 
 ## 🧠 GET YOUR SESSION ID
+
 > Click below to generate your secure session
 
 <a href="https://raheem-session-generator.vercel.app" target="_blank">
@@ -55,7 +56,7 @@
 
 ---
 
-## 🛠️ FEATURES
+## 🔥 FEATURES
 
 - ✅ Stickers Generator
 - 🎥 Video Downloader (YT, IG, FB)
@@ -66,7 +67,7 @@
 
 ---
 
-## 🧑‍💻 DEVELOPER INFO
+## 👤 DEVELOPER INFO
 
 | NAME         | LINK |
 |--------------|------|
