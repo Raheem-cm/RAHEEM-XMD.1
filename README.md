@@ -13,6 +13,7 @@
 </p>
 
 <div align="center">
+
   [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r)
 </div>
 
@@ -39,6 +40,7 @@
 </a>
 
 <p align='center'>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞🍴+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+🎖️+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
 </p>
 
